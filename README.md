@@ -1,7 +1,7 @@
 # FastSpeech2
 A Tensorflow Implementation of the FastSpeech 2: Fast and High-Quality End-to-End Text to Speech
 
-# Audio samples
+# [Audio samples](https://dathudeptrai.github.io/TensorflowTTS/)
 Here is my Audio samples of FastSpeech2, it's comparable with Tacotron-2, I think.
 
 # Update
